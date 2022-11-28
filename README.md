@@ -18,6 +18,7 @@ Design: [Coming soon](https://cdn.discordapp.com/attachments/850245533838868480/
 
 -   Github pages
 -   responsive design
+-   CSS animation
 -   form
 -   FontAwesome icons
 
@@ -68,7 +69,7 @@ Jurgita: [Github](https://github.com/JurgitaE)
 
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE.md for more information.
+Distributed under the MIT License. See LICENSE for more information.
 
 ## 🔗 Other resources
 
