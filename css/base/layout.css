@@ -1,6 +1,7 @@
 .container {
     width: 100%;
-    padding: 60px 20px;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 
 .container > .row {
@@ -8,7 +9,9 @@
     width: 1000px;
     margin-left: calc(50% - 500px);
 }
+
 .container > .short-row {
+    display: inline-block;
     width: 600px;
     margin-left: calc(50% - 300px);
 }
