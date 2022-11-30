@@ -18,10 +18,14 @@
     margin-left: calc(50% - 300px);
 }
 
-.container > .row > .left {
+.container > .row > .column {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
     width: 50%;
 }
-.container > .row > .right {
+
+.container > .row > .right { 
     width: 40%;
 }
 
@@ -50,9 +54,7 @@
         width: 100%;
         margin-left: 0;
     }
-    .container > .row > .left {
-        width: 100%;
-    }
+    .container > .row > .column,
     .container > .row > .right {
         width: 100%;
     }
