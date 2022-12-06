@@ -2,7 +2,9 @@
     --main-color: #03a9f4;
     --secondary-color: #ea1e63;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 body,
 body * {
     margin: 0;
@@ -12,8 +14,7 @@ body * {
 }
 
 body {
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS',
-        sans-serif;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .bg-blue {
