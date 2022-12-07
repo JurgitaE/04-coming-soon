@@ -43,6 +43,11 @@ form > div > textarea {
     border: none;
     border-bottom: 2px solid #ccc;
 }
+form > div > input:focus,
+form > div > textarea:focus {
+    outline-color: #ccc;
+}
+
 form > div > textarea {
     min-height: 4.8em;
     max-height: 13em;

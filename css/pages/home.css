@@ -56,10 +56,15 @@
 
 .subscribe > div > input {
     background-color: transparent;
-    border-color: white;
+    border-color: #fffe;
+    color: #fff;
 }
+.subscribe input:focus {
+ outline-color: #fff;
+}
+
 .subscribe > div > input::placeholder {
-    color: white;
+    color: #fff;
 }
 
 .subscribe .btn {
