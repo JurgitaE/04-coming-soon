@@ -27,7 +27,7 @@ form > div > textarea {
 }
 form > div > textarea {
     min-height: 4.8em;
-    max-width: 13em;
+    max-height: 13em;
     resize: vertical;
 }
 
